@@ -1,0 +1,5 @@
+a=input("Escriu una cadena d'ADN\n\t")
+print('A',a.count('A')+a.count('a'))
+print('G',a.count('G')+a.count('g'))
+print('T',a.count('T')+a.count('t'))
+print('C',a.count('C')+a.count('c'))
